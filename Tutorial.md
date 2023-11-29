@@ -195,3 +195,6 @@ ip a
  curl your-ip
  ```
  > *Note: Replace ***your-ip*** with the actual ip you found with `ip a` command.
+
+Congratulations! You have finished the tasks in in tutorial!
+
